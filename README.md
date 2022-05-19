@@ -1,4 +1,4 @@
-# therapy-iq
+This project is on vue with class components, Drive Domain Design 
 
 ## Project setup
 ```
